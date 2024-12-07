@@ -1,2 +1,1 @@
-# YAIR
-Yet Another Image Repository
+![banner.png](/banner.png)
